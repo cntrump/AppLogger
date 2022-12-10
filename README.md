@@ -13,3 +13,7 @@ make
 ```bash
 .build/apple/Products/Release/AppLogger
 ```
+
+## Screenshots
+
+![](snapshot.png)
